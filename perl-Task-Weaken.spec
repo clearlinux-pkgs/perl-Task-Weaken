@@ -4,7 +4,7 @@
 #
 Name     : perl-Task-Weaken
 Version  : 1.06
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Task-Weaken-1.06.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Task-Weaken-1.06.tar.gz
 Summary  : 'Ensure that a platform has weaken support'
