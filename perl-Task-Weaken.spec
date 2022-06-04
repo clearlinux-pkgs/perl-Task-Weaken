@@ -4,7 +4,7 @@
 #
 Name     : perl-Task-Weaken
 Version  : 1.06
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Task-Weaken-1.06.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Task-Weaken-1.06.tar.gz
 Summary  : 'Ensure that a platform has weaken support'
@@ -97,4 +97,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Task/Weaken.pm
+/usr/lib/perl5/*
